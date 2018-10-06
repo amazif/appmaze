@@ -1,2 +1,2 @@
 # appmaze
-This view doesnt show I am in first branch
+Editing the file in Master branch
